@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Responsive web designing using HTML 
 - 💞️ I’m looking to collaborate on different web designing projects
 - 📫 How to reach me : fatti0453@gmail.com
-- 😄 Pronouns: Taki
+- 😄 Pronouns: Fatti
   
 
 <!---
